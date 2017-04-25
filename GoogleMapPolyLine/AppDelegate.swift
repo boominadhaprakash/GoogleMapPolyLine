@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  GoogleMapPolyLine
 //
-//  Created by Srikanth Vellore on 20/04/17.
+//  Created by Boominadha Prakash on 20/04/17.
 //  Copyright © 2017 Boomi. All rights reserved.
 //
 
